@@ -1,0 +1,5 @@
+num1 = int(input("Digite a primeira nota: "))
+num2 = int(input("Digite a segunda nota: "))
+num3 = int(input("Digite a terceira nota: "))
+num4 = int(input("Digite a quarta nota: "))
+print("A média das notas é: {}".format((num1 + num2+ num3+ num4) / 4))
