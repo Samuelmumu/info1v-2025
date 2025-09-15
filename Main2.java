@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main2 {
     public static void main(String[] args) {
 
@@ -23,5 +24,6 @@ public class Main2 {
         } else {
             System.out.println("Você foi aprovado, sua média foi: " + med);
         }
+        System.out.println("Samuel é lindo");
     }
 }
